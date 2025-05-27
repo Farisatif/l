@@ -1,4 +1,5 @@
-let a=0;
+let a = 0;
+
 var friend = [
     "A",
     "B",
@@ -91,10 +92,16 @@ console.log(friend.sort());
 console.log(friend.slice(0,2));//اخذ جزء من العناصر من المصفوفه
 
 var friend2 = [
+
 "1",
 "2"
+
 ];
 
 console.log(friend.concat(friend2));
 
+console.log("");
 
+console.log("");
+
+console.log("");
